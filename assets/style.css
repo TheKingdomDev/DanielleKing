@@ -39,6 +39,16 @@ body {
 	text-shadow: 2px 2px #3b1377;
 }
 
+.about-header {
+	text-align: center;
+	font-size: 3em;
+	margin: 20px 0;
+}
+
+.about-body {
+	font-size: 26px;
+}
+
 .icon-footer {
 	font-size: 3em;
 	text-align: center;
